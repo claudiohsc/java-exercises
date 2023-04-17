@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/lib/jvm/java-17-openjdk-amd64/lib/jrt-fs.jar"
+    ]
+}
