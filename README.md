@@ -9,6 +9,6 @@ Repositório contendo exercícios da Disciplina de Orientação a Objetos.
 * Classes;
 * Objetos;
 * Atributos;
-* Métodos
-* Estado do Objeto
+* Métodos;
+* Estado do Objeto;
 
